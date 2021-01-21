@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "270509502004",
+    "firebase_url": "https://loginemail-a0180.firebaseio.com",
+    "project_id": "loginemail-a0180",
+    "storage_bucket": "loginemail-a0180.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270509502004:android:56d07bfc3971b22d87e461",
+        "android_client_info": {
+          "package_name": "com.example.ngidolyuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270509502004-p15r2945soa6tq51tvrlilmkkh7v3nno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ngidolyuk",
+            "certificate_hash": "8186a142afda57c248e821d2b5193314aa1517bc"
+          }
+        },
+        {
+          "client_id": "270509502004-qj8difbf0lv1sums34r754kt76f4o0qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARsEakav2ad2P7Gcjbmr88VHK1XOxiHyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270509502004-qj8difbf0lv1sums34r754kt76f4o0qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
